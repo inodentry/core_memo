@@ -1,0 +1,17 @@
+[package]
+name = "core_memo"
+version = "0.1.0"
+authors = ["Jasen Borisov <borisovjasen@protonmail.com>"]
+description = "Zero-cost, no_std-compatible library for lazy evaluation and memoization"
+
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+
+repository = "https://gitlab.com/jamadazi/core_memo"
+
+keywords = ["cache", "memo", "memoization", "lazy", "memoize"]
+
+categories = ["caching", "no-std", "algorithms", "data-structures", "rust-patterns"]
+
+
+[dependencies]
